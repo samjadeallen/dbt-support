@@ -49,15 +49,15 @@ div.row > a:hover > h2 {
 
 div.row > a > h2 {
   transition: top 0.4s ease-in-out;
-  color: #DF3D82;
+  color: #000000;
   text-transform: uppercase;
-  font-family: 'Paytone One', sans-serif;
+  font-family: "Comic Sans MS" ; sans-serif
   position: absolute;
   top: 44%;
   margin: 0;
   padding: 0;
   left: 0;
-  text-align: center;
+  text-align: center; 
   width: 100%;
 
   opacity:0;  /* make things invisible upon start */
